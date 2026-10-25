@@ -129,7 +129,7 @@ The plots of three-phase voltages and currents at the PCC show that the grid vol
 
 The phase current is perfectly in-phase with the grid voltage, indicating the unity power factor operation achieved by the control system.
 ### Total Harmonic Distortion of grid current at the PCC.
-![THD](THD_of_grid_current_at_PCC.png.png)
+![THD](THD_of_grid_current_at_PCC.png)
 The harmonic spectrum shows a THD of 2.34%, which is dominated by low-order switching harmonics and is well within the IEEE-519 standard limit of 5%.
 
 
